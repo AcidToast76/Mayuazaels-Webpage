@@ -13,7 +13,7 @@ html {
     background-attachment: fixed;
     background-position: center;
     color: white;
-    height: 100%;
+    height: 97%;
 }
 
 body {
@@ -30,6 +30,7 @@ div.middle {
     padding: 10px;
     align-self: center;
     margin: auto;
+    margin-bottom: 30px;
 }
 
 img.profile-pic {
@@ -51,7 +52,7 @@ button {
 
 div.listbox {
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     border: 2px solid white;
     border-radius: 10px;
     background-color: #2f4e358c;
